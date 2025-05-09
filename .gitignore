@@ -1,0 +1,27 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# backup
+backup/
+
+# setting
+config/
+
+# data
+data/
+
+# backup sql file
+*.sql
+
+# log file
+log/

@@ -34,3 +34,4 @@ ENV PATH="/app/.venv/bin:$PATH"
 
 # when running the container, add --db-path and a bind mount to the host's db file
 ENTRYPOINT ["owlpay-harbor-mcp-server"]
+

@@ -26,6 +26,8 @@ docker build -t mcp/owlpay_harbor . --no-cache
 
 ### Docker
 
+For manual installation, open `Settings` -> `Developer` -> `Edit Config`, and add the following JSON block to your `claude_desktop_config.json` in Claude Desktop.
+
 ```json
 # Add the server to your claude_desktop_config.json
 "mcpServers": {

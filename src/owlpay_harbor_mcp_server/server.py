@@ -21,7 +21,7 @@ from mcp.types import (
 )
 
 OWLPAY_HARBOR_MCP_SERVER_API = (
-    "http://192.168.70.71:5050/owlpay-harbor/get-owlpay-harbor-documentation"
+    "https://mcp.owlting.com/owlpay-harbor/get-owlpay-harbor-documentation"
 )
 
 

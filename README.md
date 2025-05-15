@@ -3,6 +3,9 @@
 ## Overview
 The OwlPay Harbor MCP Server provides documentation search capabilities. This server enables large language models (LLMs) to directly retrieve documentation, accelerating system integration.
 
+<img src="./docs/test.gif" width="650">
+<br><br>
+
 ## Components
 
 ### Tools
@@ -89,12 +92,3 @@ For manual installation, open `Cursor Settings` -> `Add new global MCP server`
   }
 }
 ```
-
-
-
-
-
-
-
-<img src="./docs/test.gif" width="500">
-<br><br>

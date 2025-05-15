@@ -89,3 +89,12 @@ For manual installation, open `Cursor Settings` -> `Add new global MCP server`
   }
 }
 ```
+
+
+
+
+
+
+
+<img src="./docs/test.gif" width="500">
+<br><br>

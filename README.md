@@ -75,7 +75,7 @@ Optionally, you can add it to a file called `.vscode/mcp.json` in your workspace
 }
 ```
 
-## Usage with Cursur
+## Usage with Cursor
 For manual installation, open `Cursor Settings` -> `Add new global MCP server`
 
 ```json
